@@ -15,6 +15,7 @@ So what does that mean in terms of home prices?   I suggest you spend some tim
 
 1.  The number that matters is **"PITI"** *(principal+interest+taxes+insurance)*: that's the total monthly cost of the home.  *(Often mortgage calculators leave out taxes+insurance, which means they're not something you can use as the basis for a decision.  This calculator includes those fields, but you have to know how to determine them.)*
 
-2. Here's what would happen if we bought the Yale house today, at an assumed $540k market price, with a 30-year fixed loan like the one we already have (4.375%), putting a $150K down payment ffrom the sale of a fictional former home.  The 
+2. Here's the projection if we bought the Yale house today, at an assumed $540k market price, with a 30-year fixed loan like the one we already have *(@4.375%)*, putting a $150K down payment from the sale of a fictional former home.  The 
+
 ![](650k-4.375pct-fixed.png)
 
