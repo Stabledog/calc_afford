@@ -35,7 +35,7 @@ So that eats up the \$3500/month.  That's the reason why I've been talking about
 
 ![](700k-3.5pct-fixed.png)
 
-That moves the needle up to *\$700k* for the home price.  Still a bit shy of the typical homes in Claremont, I believe, but might expand the options a bit.
+That moves the needle up to **\$700k** for the home price.  Still a bit shy of the typical homes in Claremont, I believe, but might expand the options a bit.
 
 ---
 
@@ -49,8 +49,11 @@ While it is possible to get above that level with a lower down payment, mortgage
 
 ---
 6. Things to remember:
+- The \$3500/month current-expense is actually a bit too rainbow-colored, because what actually happens is that we skip a couple of Montessori payments in the summertime, most of the time.  If those were factored in, this number would be lower.  I'm ignoring that because my income creeps up a bit each year and will erase that effect on the numbers soon enough.
 - We will need a new HELOC on the new house, because there still needs to be a bucket for educational expenses.
 - Nothing in the scenarios above allocate anything for improvements to the new home or furniture replacements, appliances, etc.  Presumably some of that would need to happen, possibly from the new HELOC?
+- For lower-priced homes, \$150k is more down payment than is absolutely needed, and the balance could conceivably be used for fixing up a house that needs some work, instead of pouring it into the retail price.  But are you up for such projects?  Something to consider.  Another possibility would be to buy a lower-priced home that needs work, minimize the down payment, spend on mortgage insurance, and use the extra cash to improve the home.   Trouble is that if you take a lot of cash out of the house instead of rolling it into another home... it can become taxable!
+Point being... all these calculations become complicated.
 
 ## What if there's a rental attached?
 
