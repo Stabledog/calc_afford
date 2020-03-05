@@ -6,7 +6,7 @@ This is some guidance so you can understand the math of the problem.
 
 Our budget for monthly house payments  -- if the Montessori bill goes away -- is about $3500. 
 
-That's based on the view that we're basically not-quite-breaking even each year with the current pattern, where our PITI house cost is about \$1650, and the school cost is \$1850, so that's \$3500/month.   With a bit of belt-tightening, we ought to be able to balance the books that way, but certainly we don't want to pile on a whole lot more monthly net housing cost.
+That's based on the view that we're basically not-quite-breaking even each year with the current pattern, where our house payment on Yale is about \$1650, and the school cost is \$1850, so that's \$3500/month.   With a bit of belt-tightening, we ought to be able to balance the books that way, but certainly we don't want to pile on a whole lot more monthly net housing cost.
 
 If you talk to a banker, they'll talk about a 30% upper limit relative to gross salary *(which is `$252k * .3 / 12 = $6300`, but we are running an expense rate with several years of history, and two separate homes, and travel and educational expenses, etc.  So we have reason to be confident about knowing what we can afford per month. )*  -- the question is how to spend that $3500/mo and how much risk to take on and whether an on-site rental can help.
 
