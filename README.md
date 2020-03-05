@@ -54,7 +54,15 @@ While it is possible to get above that level with a lower down payment, mortgage
 
 ## What if there's a rental attached?
 
-That's more complicated.  TBD.
+For every $1,000 of rental revenue, some portion has to be allocated for expenses, and the rest can go to a higher house payment.  In theory.  But figuring out what those expenses might be isn't easy, and the tax consequences are potentially significant, as any profit (revenue minus expense) is going to be treated as income by the IRS, California, and New Jersey *(yes, we file New York and New Jersey returns every year, but not California.  With rental income we would have to file in California as well!)*
+
+We want to minimize taxes but they are partly offset by the ability to "depreciate" the property over time. So it's complicated.
+
+Let's assume that a conservative estimate is that 70% of rental revenue can be applied to PITI for the property... so if you have a unit that can be rented for \$1000/month, then that gives $700 for the PITI payments, and can't you just plug that into the calculator to figure out a new upper-limit on price?
+
+Sort of, a bit.  Except the trouble is that a higher home price correlates with a higher down payment, and I think that $150k is getting close to the limit of what we can count on as a down payment, without extraordinary measures like "save up for X months to have extra down payment."   If the down payment falls below 20%, the interest rate might start creeping up.  If we borrow (e.g. on a credit card) to get more down payment, that can show up on credit reports as a score hit.  It is possible to finesse these bits, and it's possible that the banks will be hungrier to lend than we know, etc.
+
+So basically paying attention to attached rentals isn't a bad idea, but it's hard to give a preliminary yes/no about a given property and say "yes, we could make that work", at least without finding a lender who agrees.
 
 
 
