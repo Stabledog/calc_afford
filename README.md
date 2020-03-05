@@ -35,7 +35,7 @@ So that eats up the \$3500/month.  That's the reason why I've been talking about
 
 ![](700k-3.5pct-fixed.png)
 
-That moves the needle up to \$700k for the home price.  Still a bit shy of the typical homes in Claremont, I believe, but might expand the options a bit.
+That moves the needle up to *\$700k* for the home price.  Still a bit shy of the typical homes in Claremont, I believe, but might expand the options a bit.
 
 ---
 
